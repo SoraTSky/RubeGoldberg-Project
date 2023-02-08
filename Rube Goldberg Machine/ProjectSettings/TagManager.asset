@@ -6,6 +6,8 @@ TagManager:
   tags:
   - TrackingObject
   - Actors
+  - ball
+  - Bell
   layers:
   - Default
   - TransparentFX
